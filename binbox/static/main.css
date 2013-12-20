@@ -1,0 +1,40 @@
+html, body, h1, h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    background-color: #993333;
+    font-size: 300%;
+    color: white;
+    padding: 16px;   
+    padding-bottom: 0px;
+}
+
+h2 {
+    padding-left: 16px;
+    color: #AAA;
+    background-color: #660000;
+}
+
+
+form {
+    margin: 16px;
+    padding: 16px;
+    background-color: #FFCC99;
+    border-radius: 16px;
+    border: 1px solid #660000;
+}
+
+div#nav {
+    padding: 16px;
+    background-color: #FFEEBB;
+}
+
+img {
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-top: 1px solid #DDD;
+    border-left: 1px solid #DDD;
+    margin: 16px;
+}

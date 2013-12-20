@@ -1,0 +1,6 @@
+*.pdf
+*.png
+*.pyc
+binbox.egg-info
+*.egg
+settings.py
